@@ -1,4 +1,4 @@
-name := "scrabble"
+name := "sbt-project-skeleton"
 
 version := "0.1"
 
